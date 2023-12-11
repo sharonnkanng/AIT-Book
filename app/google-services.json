@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110918358853",
+    "project_id": "aitbookclub",
+    "storage_bucket": "aitbookclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110918358853:android:e35809813f04923299102c",
+        "android_client_info": {
+          "package_name": "hu.ait.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18F6VtHmVQ-Ud8qwUhECHoXysKaF7aa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
